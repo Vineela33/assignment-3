@@ -9,6 +9,7 @@ Problem Statement: Write a Python program that:
 3.   Calls the function with a sample number and prints the output.
 
 =============================================================
+
 Task 2: Using the Math Module for Calculations
  
 Problem Statement: Write a Python program that:
